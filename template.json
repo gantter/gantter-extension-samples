@@ -1,0 +1,9 @@
+{
+	'name': 'Template Example',
+	'postURL': 'http://www.gantter.com/extensions/template.gantter',
+	'authorName': 'InQuest',
+	'moreInfoURL': 'https://github.com/gantter/gantter-extension-samples/',
+	'type': 'Template',
+	'iconURL': 'http://www.gantter.com/extensions/template.png',
+	'private': true
+}

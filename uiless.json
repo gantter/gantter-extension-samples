@@ -1,0 +1,9 @@
+{
+	'name': 'UILess Example',
+	'postURL': 'http://www.gantter.com/extensions/uiless.php',
+	'authorName': 'InQuest',
+	'moreInfoURL': 'https://github.com/gantter/gantter-extension-samples/',
+	'type': 'UILess',
+	'iconURL': 'http://www.gantter.com/extensions/uiless.png',
+	'private': true
+}

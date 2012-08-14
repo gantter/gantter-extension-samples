@@ -1,0 +1,9 @@
+{
+	'name': 'Popup Example',
+	'postURL': 'http://www.gantter.com/extensions/popup.php',
+	'authorName': 'InQuest',
+	'moreInfoURL': 'https://github.com/gantter/gantter-extension-samples/',
+	'type': 'Popup',
+	'iconURL': 'http://www.gantter.com/extensions/popup.png',
+	'private': true
+}
